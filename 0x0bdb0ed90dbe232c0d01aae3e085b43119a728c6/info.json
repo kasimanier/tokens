@@ -1,0 +1,11 @@
+{
+ "name": "Kill Doge",
+ "website": "-",
+ "description": "Kill Doge讽刺现在狗圈的乱象，致敬btc，支持主流货币！每个月项目方的收益将用于拉升被低估的主流货币，具体拉升哪个币将由社区投票决定",
+ "explorer": "https://bscscan.com/token/0x0bdb0ed90dbe232c0d01aae3e085b43119a728c6",
+ "type": "BEP20",
+ "symbol": "Kill Doge",
+ "decimals": 18,
+ "status": "active",
+ "id": "0x0bdb0ed90dbe232c0d01aae3e085b43119a728c6"
+}
