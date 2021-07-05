@@ -1,0 +1,11 @@
+{
+ "name": "Sariki",
+ "website": "-",
+ "description": "Sariki是LIONCOIN的分叉结晶，中文名:舍利子，简称SKI，总发行量100万枚，前期预挖10000枚作为市场流动性，其余代币择采用矿机全部产出。因期发行量少且获得方式只能通过矿机产出，非常稀缺故而价值不菲",
+ "explorer": "https://tronscan.io/#/token20/TFhKShan88KwY9dytLTWciiAcEANrwyzA8",
+ "type": "TRC20",
+ "symbol": "SKI",
+ "decimals": 18,
+ "status": "active",
+ "id": "TFhKShan88KwY9dytLTWciiAcEANrwyzA8"
+}
